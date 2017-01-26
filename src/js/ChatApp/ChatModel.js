@@ -1,6 +1,6 @@
 var util = require('util'),
     Model = require('../ReactMVC/Model'),
-    Threadservice = require('./Threadservice'),
+    Threadservice = require('./ThreadService'),
     ThreadEntity = require('./ThreadEntity');
 
 var ChatModel = function() {
